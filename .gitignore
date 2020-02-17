@@ -1,0 +1,5 @@
+.envrc
+*_state.json
+.idea
+*.swp
+*.*.swp
